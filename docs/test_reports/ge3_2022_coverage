@@ -1,0 +1,9 @@
+Name                                         Stmts   Miss Branch BrPart  Cover
+------------------------------------------------------------------------------
+\uc3m_care\__init__.py                           4      0      0      0   100%
+\uc3m_care\vaccination_appoinment.py            49     10      8      2    79%
+\uc3m_care\vaccine_management_exception.py      10      1      2      0    92%
+\uc3m_care\vaccine_manager.py                  150     16     66     10    87%
+\uc3m_care\vaccine_patient_register.py          98     11     36      1    91%
+------------------------------------------------------------------------------
+TOTAL                                          311     38    112     13    87%

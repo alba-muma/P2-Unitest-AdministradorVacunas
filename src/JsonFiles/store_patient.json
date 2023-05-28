@@ -1,0 +1,20 @@
+[
+  {
+    "_VaccinePatientRegister__time_stamp": 1646296055.448724,
+    "_VaccinePatientRegister__patient_system_id": "a51270ae5d7c7b73e9c2783e5c0766c0",
+    "_VaccinePatientRegister__phone_number": "123456789",
+    "_VaccinePatientRegister__registration_type": "regular",
+    "_VaccinePatientRegister__full_name": "Juan Perez HerreroBlanquitou",
+    "_VaccinePatientRegister__patient_id": "bb5dbd6f-d8b4-413f-8eb9-dd262cfc54e0",
+    "_VaccinePatientRegister__age": "22"
+  },
+  {
+    "_VaccinePatientRegister__time_stamp": 1646296055.448724,
+    "_VaccinePatientRegister__patient_system_id": "a51270ae5d7c7b73e9c2783e5c0766c0",
+    "_VaccinePatientRegister__phone_number": "123456780",
+    "_VaccinePatientRegister__registration_type": "regular",
+    "_VaccinePatientRegister__full_name": "Juan Perez HerreroBlanquitous",
+    "_VaccinePatientRegister__patient_id": "508258ad-5295-4fba-bf3e-79dd0d332fb1",
+    "_VaccinePatientRegister__age": "124"
+  }
+]

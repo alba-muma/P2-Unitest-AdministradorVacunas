@@ -1,0 +1,12 @@
+[
+  {
+    "_VaccinationAppoinment__alg": "SHA-256",
+    "_VaccinationAppoinment__type": "DS",
+    "_VaccinationAppoinment__patient_id": "bb5dbd61-d8b1-4131-8eb1-dd262cfc5123",
+    "_VaccinationAppoinment__patient_sys_id": "a51270ae5d7c7b73e9c2783e5c0766c0",
+    "_VaccinationAppoinment__phone_number": "123456712",
+    "_VaccinationAppoinment__issued_at": 1646396055.448724,
+    "_VaccinationAppoinment__appoinment_date": 1647260055.448724,
+    "_VaccinationAppoinment__date_signature": "79e493bb27415a6ddddd81609e0d71c5c918ac166519a92d964671d3588c4767"
+  }
+]
